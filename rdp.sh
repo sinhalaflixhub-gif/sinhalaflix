@@ -33,7 +33,7 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "11"
+      VERSION: "10"
       USERNAME: "MASTER"
       PASSWORD: "admin@123"
       RAM_SIZE: "7G"
